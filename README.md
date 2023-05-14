@@ -60,6 +60,7 @@ I am a Mobile App Developer, UI/UX Designer, Web Developer <img src="https://med
 ---
 
 ### ✍️ Blog Posts : 
+- [What’s new in Flutter 3.10](https://nyonggodwill11.medium.com/whats-new-in-flutter-3-10-c54124eee63b)
 - [Flutter Road Map](https://nyonggodwill11.medium.com/flutter-complete-roadmap-2022-75cb6fa7bd89/)
 - [Top 5 IDEs to Develop A Flutter App](https://nyonggodwill11.medium.com/top-5-ides-to-develop-a-flutter-app-c0110a98b948/)
 - [A list of useful VS Code Extensions for Flutter Developers](https://nyonggodwill11.medium.com/a-list-of-useful-vs-code-extensions-for-flutter-developers-dc07eda6fb59/)<!-- BLOG-POST-LIST:START -->
