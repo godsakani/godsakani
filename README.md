@@ -20,11 +20,13 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Mobile App Developer, UI/UX Designer, Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
+Hi, I’m Nyong Godwill! 👋
+I’m a Software Engineer with a deep passion for Data Science & Analytics. I thrive on uncovering hidden insights in messy data.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- With a deep passion for Data Science & Analytics, I thrive on uncovering hidden insights in messy data, analyzing data, and building predictive models.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ngodwill-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nyong-godwill-6906bb1b5/)
 
 ---
@@ -32,12 +34,10 @@ I am a Mobile App Developer, UI/UX Designer, Web Developer <img src="https://med
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJs" alt="AngularJs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -65,6 +65,6 @@ I am a Mobile App Developer, UI/UX Designer, Web Developer <img src="https://med
 - [A beginner’s guide to Git](https://nyonggodwill11.medium.com/a-beginners-guide-to-git-how-to-start-and-create-your-first-repository-19fb630728eb)
 - [Flutter Road Map](https://nyonggodwill11.medium.com/flutter-complete-roadmap-2022-75cb6fa7bd89/)
 - [Top 5 IDEs to Develop A Flutter App](https://nyonggodwill11.medium.com/top-5-ides-to-develop-a-flutter-app-c0110a98b948/)
-- [A list of useful VS Code Extensions for Flutter Developers](https://nyonggodwill11.medium.com/a-list-of-useful-vs-code-extensions-for-flutter-developers-dc07eda6fb59/)<!-- BLOG-POST-LIST:START -->
+- [A list of useful VS Code Extensions for Flutter Developers](https://nyonggodwill11.medium.com/a-list-of-useful-vs-code-extensions-for-flutter-developers-dc07eda6fb59/)<!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST:END -->
 
