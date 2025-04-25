@@ -21,7 +21,12 @@
 ### :woman_technologist: &nbsp;About Me :
 
 Hi, I’m Nyong Godwill! 👋
-I’m a Software Engineer with a deep passion for Data Science & Analytics. I thrive on uncovering hidden insights in messy data.
+
+I’m a Software Engineer with a deep passion for Data Science & Analytics. I thrive on uncovering hidden insights in messy data and building powerful predictive models that drive real-world impact.
+
+🚀 Currently transitioning into a full-time Data Scientist & Analyst—exploring data, making informed decisions, and turning numbers into actionable insights!
+
+Let’s connect and dive into the world of data-driven innovation! 🔍📊
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - With a deep passion for Data Science & Analytics, I thrive on uncovering hidden insights in messy data, analyzing data, and building predictive models.
