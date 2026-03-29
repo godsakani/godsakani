@@ -19,9 +19,6 @@
   <a href="https://www.instagram.com/nyonggodwill/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge">
   </a>
-  <a href="https://web.facebook.com/profile.php?id=100092457032924/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
-  </a>
   <a href="https://portfolio-ww11.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=internet&logoColor=white" alt="Portfolio Badge">
   </a>
