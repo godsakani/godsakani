@@ -36,7 +36,8 @@
  👨‍💻 &nbsp;About Me
 </p>
 <p align="center">
-  I am a graduate student at the College of Engineering at Carnegie Mellon University, pursuing a Master of Science in Engineering Artificial Intelligence. My interest is in AI Engineering, Machine Learning and Large Language Models with the goal of leveraging data to build and enhance AI systems in areas such as Intelligent chatbots, Health, Climate, and Agriculture. I come from a Software Engineering background, and leveraging this dual expertise enables me to build robust AI applications.
+I'm an MS student in AI Engineering at Carnegie Mellon University (CMU-Africa) and Technical AI Safety Fellow with BlueDot Impact and Georgia Tech's AI Safety Initiative. I'm also AWS Certified in AI Practitioner.
+My work focuses on ensuring AI systems are not just powerful, but safe, aligned, and beneficial. I specialize in AI Safety, Alignment, and LLM research, with applications in Healthcare, Climate, and Agriculture—domains where AI failures have real-world consequences.
   <br><br>
   📫 How to reach me: &nbsp; 
   <a href="https://www.linkedin.com/in/nyong-godwill-6906bb1b5/">
