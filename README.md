@@ -34,7 +34,7 @@
 </p>
 <p align="center">
 I'm an MS student in AI Engineering at Carnegie Mellon University (CMU-Africa) and Technical AI Safety Fellow with BlueDot Impact and Georgia Tech's AI Safety Initiative. I'm also AWS Certified in AI Practitioner.
-My work focuses on ensuring AI systems are not just powerful, but safe, aligned, and beneficial. I specialize in AI Safety, Alignment, and LLM research, with applications in Healthcare, Climate, and Agriculture—domains where AI failures have real-world consequences.
+My work focuses on ensuring AI systems are not just powerful, but safe, aligned, and beneficial. With much interest in AI Safety, Alignment, and LLM research, with applications in Healthcare, Climate, and Agriculture—domains where AI failures have real-world consequences.
   <br><br>
   📫 How to reach me: &nbsp; 
   <a href="https://www.linkedin.com/in/nyong-godwill-6906bb1b5/">
